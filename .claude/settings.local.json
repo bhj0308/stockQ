@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/Users/jay/code/project/stockQ/.venv/bin/python -c \"import sys; sys.path.insert\\(0, '/Users/jay/code/project/stockQ'\\); import api.app.main; print\\('API imports OK'\\)\")",
+      "Bash(/Users/jay/code/project/stockQ/.venv/bin/pip list *)"
+    ]
+  }
+}
